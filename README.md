@@ -34,8 +34,9 @@ Developed by:Kausalya G
 Registeration Number :212221040076
 */
 ```
-## PROGRAM:
+## activity_main.xml:
 ```
+activity_main.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -51,8 +52,9 @@ Registeration Number :212221040076
 
 </RelativeLayout>
 ```
-## PROGRAM:
+## MainActivity.java:
 ```
+MainActivity.java:
 package com.example.graphical;
 
 import androidx.appcompat.app.AppCompatActivity;
